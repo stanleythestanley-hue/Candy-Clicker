@@ -34,3 +34,16 @@ function canUserIncreaseClick(){
 //buy a click upgrade if we have enough coins. also used Math.trunc to remove pesky decimals
 function buyClickUpgrade(){
 }
+
+if(totalcand)
+
+
+
+     if(totalcandy >= ClickUpgradeCost){
+          totalcandy -= ClickUpgradeCost
+          totalCandyDisplay.innerHTML = totalcandy 
+          totalCandyDisplay.innerHTML = "candies: " 
+          candyPerClickDisplay
+     }
+
+     
